@@ -1,5 +1,4 @@
 
-<?php
 
 /*
 Plugin Name: Nico WP Test Plugin
