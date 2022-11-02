@@ -1,5 +1,4 @@
-
-
+<?php
 /*
 Plugin Name: Nico WP Test Plugin
 Plugin URI: https://github.com/nico-martin/wp-test-plugin
